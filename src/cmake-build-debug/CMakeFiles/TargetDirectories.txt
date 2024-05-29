@@ -1,0 +1,3 @@
+/home/jiaoxue/桌面/osbighw/cmake-build-debug/CMakeFiles/osbighw.dir
+/home/jiaoxue/桌面/osbighw/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/jiaoxue/桌面/osbighw/cmake-build-debug/CMakeFiles/rebuild_cache.dir
